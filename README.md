@@ -15,7 +15,7 @@ Hey there! I'm Bhumi 🌟, a passionate blockchain developer on a mission to bui
 - **Backend:** Node.js, Express, Flask
 - **Languages:** JavaScript, TypeScript, Python
 - **Databases:** MongoDB
-- **Version Control:** Git, GitHu
+- **Version Control:** Git, GitHub
 
 ## 💼 Blockchain Toolkit
 - **Blockchain:** Solidity, Smart Contracts, EIPs, DApps, DeFi, NFTs
