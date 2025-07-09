@@ -14,15 +14,16 @@ Hey there! I'm Bhumi 🌟, a passionate blockchain developer on a mission to bui
 - **Frontend:** React.js, Next.js
 - **Backend:** Node.js, Express, Flask
 - **Languages:** JavaScript, TypeScript, Python
-- **Databases:** MongoDB
-- **Version Control:** Git, GitHub
+- **Databases:** MongoDB, Firebase, Supabase, Azure SQL
+- **Cloud & DevOps:** GitHub Actions, AWS, GCP
+- **Version Control:** Git, GitHub, JIRA
 
 ## 💼 Blockchain Toolkit
-- **Blockchain:** Solidity, Smart Contracts, EIPs, DApps, DeFi, NFTs
+- **Blockchain:** Solidity, Smart Contracts, EIPs, DApps, DeFi, NFTs, DAOs
 - **Smart Contract Development:** Foundry, Hardhat, Truffle, Brownie
 - **Testing:** Mocha, Chai, Pytest, Waffle
-- **Deployment:** Thirdweb, Truffle, Infura, Alchemy
-- **Interacting with Blockchain:** Web3.js, Ethers.js
+- **Deployment & Infrastructure:** Thirdweb, Truffle, Infura, Alchemy
+- **Interaction Libraries:** Web3.js, Ethers.js
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/bhumi-sadariya-52588a189/) | [Twitter](https://x.com/BhumiSadariya)
