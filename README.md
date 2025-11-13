@@ -11,7 +11,7 @@ I'm passionate about solving real-world problems through performant, user-focuse
 
 
 ## 💼 Experience
-- **Full Stack Blockchain Developer**  
+- **Senior Full Stack Blockchain Developer**  
   Lamprostech PVT LTD - Ahmedabad, Gujarat  
   MARCH 2021 - Present  
   - End-to-end development of full-stack and blockchain applications
