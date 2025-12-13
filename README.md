@@ -18,7 +18,7 @@ I'm passionate about solving real-world problems through performant, user-focuse
   - Winner of multiple hackathons
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript, TypeScript, Python, Solidity
+- **Languages:** JavaScript, TypeScript, Python
 - **Frontend:** React.js, Next.js, HTML, CSS, Tailwind, Bootstrap, Redux Toolkit, Django
 - **Backend:** Node.js, Express.js, REST APIs, Flask, Fast API, Prisma ORM, Redis
 - **Databases:** MongoDB, Firebase, Supabase, Azure SQL, MySQL, PostgreSQL
