@@ -18,12 +18,12 @@ I'm passionate about solving real-world problems through performant, user-focuse
   - Winner of multiple hackathons
 
 ## 🛠️ Tech Stack
-- **Frontend:** React.js, Next.js, HTML, CSS, Tailwind
-- **Backend:** Node.js, Express, Flask
-- **Languages:** JavaScript, TypeScript, Python
-- **Databases:** MongoDB, Firebase, Supabase, Azure SQL
-- **Cloud & DevOps:** GitHub Actions, AWS, GCP
-- **Version Control:** Git, GitHub, JIRA
+- **Languages:** JavaScript, TypeScript, Python, Solidity
+- **Frontend:** React.js, Next.js, HTML, CSS, Tailwind, Bootstrap, Redux Toolkit, Django
+- **Backend:** Node.js, Express.js, REST APIs, Flask, Fast API, Prisma ORM, Redis
+- **Databases:** MongoDB, Firebase, Supabase, Azure SQL, MySQL, PostgreSQL
+- **Cloud & DevOps:** GitHub Actions, CI/CD, Docker, AWS, GCP, Vercel, Cloudflare, Terraform, Azure
+- **Testing:** Jest, React Testing Library, Playwright, Cypress, Mocha, Chai
 
 ## 💼 Blockchain Toolkit
 - **Blockchain:** Solidity, Smart Contracts, EIPs, DApps, DeFi, NFTs, DAOs
