@@ -19,8 +19,8 @@ I'm passionate about solving real-world problems through performant, user-focuse
 
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript, TypeScript, Python
-- **Frontend:** React.js, Next.js, HTML, CSS, Tailwind, Bootstrap, Redux Toolkit, Django
-- **Backend:** Node.js, Express.js, REST APIs, Flask, Fast API, Prisma ORM, Redis
+- **Frontend:** React.js, Next.js, HTML, CSS, Tailwind, Bootstrap, Redux Toolkit
+- **Backend:** Node.js, Express.js, REST APIs, Flask, Fast API, Prisma ORM, Redis, Django
 - **Databases:** MongoDB, Firebase, Supabase, Azure SQL, MySQL, PostgreSQL
 - **Cloud & DevOps:** GitHub Actions, CI/CD, Docker, AWS, GCP, Vercel, Cloudflare, Terraform, Azure
 - **Testing:** Jest, React Testing Library, Playwright, Cypress, Mocha, Chai
