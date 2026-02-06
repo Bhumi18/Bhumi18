@@ -1,4 +1,4 @@
-# Bhumi Sadariya
+# [Bhumi Sadariya](https://bhumi-sadariya.vercel.app/)
 
 ## 👋 About Me
 Hi! I’m Bhumi — a curious and driven developer with a strong foundation in both full-stack and blockchain development. Over the past few years, I’ve worked across the entire development lifecycle — from building responsive web applications with React and Node.js to writing secure smart contracts on EVM-compatible chains.
