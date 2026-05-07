@@ -48,6 +48,7 @@ I'm passionate about solving real-world problems through performant, user-focuse
 - **Databases:** MongoDB, MySQL, PostgreSQL, Firebase, Supabase, Neon, Azure SQL, Redis
 - **Cloud & DevOps:** GitHub Actions, CI/CD, Docker, AWS, GCP, Vercel, Cloudflare, Terraform, Azure
 - **Testing:** Jest, React Testing Library, Playwright, Cypress, Mocha, Chai
+- **AI & Automation:** GitHub Copilot, Claude Code, Codex, Cursor, LLM integration, AI-assisted workflows, Context engineering, Python scripting
 
 ## 💼 Blockchain Toolkit
 - **Blockchain:** Solidity, Smart Contracts, EIPs, DApps, DeFi, NFTs, DAOs
