@@ -13,8 +13,7 @@ I'm passionate about solving real-world problems through performant, user-focuse
 ## 💼 Experience
 
 ### Senior Full Stack Software Engineer & Blockchain Developer  
-**Lamprostech PVT LTD** 
-📅 March 2022 – December 2025  
+**Lamprostech PVT LTD**  📅 March 2022 – December 2025  
 
 - Developed and maintained web applications using React and Next.js, integrating frontend interfaces with backend APIs to deliver end-to-end features across production systems.
 - Built reusable frontend components in React to improve UI consistency and reduce development time across multiple product modules.
@@ -28,8 +27,7 @@ I'm passionate about solving real-world problems through performant, user-focuse
 ---
 
 ### Java Developer  
-**Silverwing Technologies Pvt. Ltd**  
-📅 September 2020 – January 2022  
+**Silverwing Technologies Pvt. Ltd**  📅 September 2020 – January 2022  
 
 - Developed backend services using Spring Boot and designed secure REST APIs for enterprise applications with role-based authentication and authorization.
 - mproved API and backend performance by 20% by introducing caching mechanisms and optimizing asynchronous processing workflows.
@@ -38,8 +36,7 @@ I'm passionate about solving real-world problems through performant, user-focuse
 ---
 
 ### Python Developer Intern  
-**Maxgen Technologies Pvt. Ltd**  
-📅 August 2019 – January 2020  
+**Maxgen Technologies Pvt. Ltd**  📅 August 2019 – January 2020  
 
 - Built backend features using Django for an e-commerce application, implementing core business logic and REST API endpoints.
 - Integrated third-party services such as payment and authentication APIs to support core application workflows and improve functionality.
