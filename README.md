@@ -13,9 +13,15 @@ I'm passionate about solving real-world problems through performant, user-focuse
 ## 💼 Experience
 - **Senior Full Stack Blockchain Developer**  
   Lamprostech PVT LTD - Ahmedabad, Gujarat  
-  MARCH 2021 - DECEMBER 2025  
-  - End-to-end development of full-stack and blockchain applications
-  - Winner of multiple hackathons
+  MARCH 2022 - DECEMBER 2025  
+  • Developed and maintained web applications using React and Next.js, integrating frontend interfaces with backend APIs to deliver end-to-end features across production systems.
+  • Built reusable frontend components in React to improve UI consistency and reduce development time across multiple product modules.
+  • Built and maintained Node.js and Express-based backend services supporting scalable web applications with a focus on performance and reliability.
+  • Designed and optimized RESTful APIs using Node.js and Python, improving response times by 30% through query optimization, indexing, and caching strategies.
+  • Architected and managed relational and NoSQL databases, ensuring data integrity, optimized query performance, and scalable data models for growing application needs.
+  • Developed Python-based scripts for data processing, monitoring, and automated reporting, improving system observability and operational efficiency.
+  • Delivered features end-to-end from planning to production release, collaborating with cross-functional teams to ensure timely and stable delivery across multiple projects.
+  • Applied AI-assisted development tools (Copilot, Cursor) to improve development speed, debugging efficiency, and code consistency across projects.
 
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript, TypeScript, Python, Java
