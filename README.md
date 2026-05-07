@@ -63,3 +63,4 @@ I enjoy working with teams that build scalable and impactful software — whethe
 ## 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/bhumi-sadariya-52588a189/)  
 - [Twitter](https://x.com/BhumiSadariya)
+- [Portfolio](https://bhumi-sadariya.vercel.app/)
